@@ -1,4 +1,5 @@
 neosmemo/memos:0.22.5
+jellyfin/jellyfin:10.10.3
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
